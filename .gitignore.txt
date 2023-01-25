@@ -1,0 +1,4 @@
+# ignore all batch files
+# in batch file...
+# cl main.cc & type tc | main
+*.bat
