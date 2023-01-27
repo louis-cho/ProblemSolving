@@ -2,3 +2,7 @@
 # in batch file...
 # cl main.cc & type tc | main
 *.bat
+*.obj
+*.pdb
+*.exe
+*ilk
